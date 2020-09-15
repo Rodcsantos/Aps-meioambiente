@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bnt{ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+		font-size: 14px;font-weight: 700;text-transform: uppercase;	border: none;padding: 10px; cursor: pointer;
+		display: inline-block;text-decoration: none}
+.bnt{background:#FFFFFF;color: black;box-shadow: 0 5px 0#006000;}		
+		body {text-align: center;background-image: url("img/bkgnd.jpg");background-attachment: fixed; background-size: 100% 100%;}
+		h1{font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; background: #004D03}
+.conteudo{ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+		font-size: 14px;font-weight: 700;text-transform: uppercase;	border: none;padding: 10px; cursor: pointer;
+		display: inline-block;text-decoration: none}
+.txt { font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";  color: black; font-size: 20px;background-color: cornsilk ; text-align: left; }
+.conteudo{background:#FFFFFF;color: black;box-shadow: 0 5px 0#006000;}
+.space{opacity: 0.0}
+.txt-conteudo{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+		font-size: 14px;font-weight: 700;text-transform: uppercase;	border: none;padding: 10px; cursor: pointer;
+		display: inline-block;text-decoration: none	}
+.txt-conteudo{background:#FFFFFF;color: black;box-shadow: 0 5px 0#006000;}
+.rodape{ height: 40px; background-color: #004D03; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; margin-bottom: 10px;}
+		
